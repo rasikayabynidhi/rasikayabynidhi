@@ -106,7 +106,7 @@
     <h2>Contact Us</h2>
     <p><strong>Shop Address:</strong> Main Rani Bagh Market, Opposite Narula’s Bag Wali Gali</p>
     <p><strong>Opening Date:</strong> 10th July 2025</p>
-    <p><strong>Phone:</strong> +91-XXXXXXXXXX</p>
+    <p><strong>Phone:</strong> +91-9212796732</p>
     <p><strong>Email:</strong> rasikaya@example.com</p>
   </section>
 
