@@ -1,16 +1,118 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Rasikaya by Nidhi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fff8f2;
+      color: #333;
+    }
+    header {
+      background: #d6336c;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      background: #fce4ec;
+      padding: 10px;
+    }
+    nav a {
+      color: #d6336c;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .hero {
+      text-align: center;
+      padding: 50px 20px;
+      background: url('https://example.com/your-banner-image.jpg') no-repeat center center;
+      background-size: cover;
+      color: white;
+    }
+    .section {
+      padding: 40px 20px;
+      text-align: center;
+    }
+    .products {
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      flex-wrap: wrap;
+    }
+    .product {
+      background: white;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      width: 250px;
+    }
+    footer {
+      background: #d6336c;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Rasikaya by Nidhi</h1>
+    <p>Designer Ladies Suits | Bed Sheets | Ladies Purses</p>
+  </header>
 
-<!--
-**rasikayabynidhi/rasikayabynidhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <nav>
+    <a href="#about">About</a>
+    <a href="#collection">Collections</a>
+    <a href="#contact">Contact</a>
+  </nav>
 
-Here are some ideas to get you started:
+  <div class="hero">
+    <h2>Welcome to Rasikaya</h2>
+    <p>Elegant. Stylish. Affordable.</p>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <section id="about" class="section">
+    <h2>About Us</h2>
+    <p>Rasikaya by Nidhi is your go-to destination for exclusive designer ladies suits, stylish bed sheets, and trendy purses. Located in the heart of Rani Bagh, we blend tradition with fashion.</p>
+  </section>
+
+  <section id="collection" class="section">
+    <h2>Our Collections</h2>
+    <div class="products">
+      <div class="product">
+        <h3>Designer Suits</h3>
+        <p>Elegant and classy ethnic wear tailored for the modern woman.</p>
+      </div>
+      <div class="product">
+        <h3>Luxury Bed Sheets</h3>
+        <p>Soft, durable, and beautifully designed to enhance your bedroom.</p>
+      </div>
+      <div class="product">
+        <h3>Ladies Purses</h3>
+        <p>Stylish and functional purses to complete your look.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="section">
+    <h2>Contact Us</h2>
+    <p><strong>Shop Address:</strong> Main Rani Bagh Market, Opposite Narula’s Bag Wali Gali</p>
+    <p><strong>Opening Date:</strong> 10th July 2025</p>
+    <p><strong>Phone:</strong> +91-XXXXXXXXXX</p>
+    <p><strong>Email:</strong> rasikaya@example.com</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Rasikaya by Nidhi. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
