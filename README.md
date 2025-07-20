@@ -13,7 +13,7 @@
 
   <div class="hero">
     <h2>Welcome to Rasikaya</h2>
-    <p>Elegant. Stylish. Affordable.</p>
+    <p>Elegant. Stylish. Affordable. Fashion at its best.</p>
   </div>
 
   <section id="about" class="section">
