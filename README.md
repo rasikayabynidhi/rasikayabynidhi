@@ -42,7 +42,6 @@
   <section id="contact" class="section">
     <h2>Contact Us</h2>
     <p><strong>Shop Address:</strong> Main Rani Bagh Market, Near Sharma Bakers Bag Wali Gali</p>
-    <p><strong>Opening Date:</strong> 10th July 2025</p>
     <p><strong>Phone:</strong> +91-9212796732</p>
     <p><strong>Email:</strong> rasikaya@example.com</p>
   </section>
