@@ -1,10 +1,11 @@
 </head>
 <body>
+![rasikaya](https://github.com/user-attachments/assets/15548028-9088-453f-9ee8-67f98790202d)
+
   <header>
     <h1>Rasikaya by Nidhi</h1>
     <p>Designer Ladies Suits | Bed Sheets | Ladies Purses</p>
   </header>
-
   <nav>
     <a href="#about">About</a>
     <a href="#collection">Collections</a>
